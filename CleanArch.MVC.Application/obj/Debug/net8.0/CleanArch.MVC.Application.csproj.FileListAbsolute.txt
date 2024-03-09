@@ -1,0 +1,15 @@
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/bin/Debug/net8.0/CleanArch.MVC.Application.deps.json
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/bin/Debug/net8.0/CleanArch.MVC.Application.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/bin/Debug/net8.0/CleanArch.MVC.Application.pdb
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/CleanArch.MVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/CleanArch.MVC.Application.AssemblyInfoInputs.cache
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/CleanArch.MVC.Application.AssemblyInfo.cs
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/CleanArch.MVC.Application.csproj.CoreCompileInputs.cache
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/CleanArch.MVC.Application.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/refint/CleanArch.MVC.Application.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/CleanArch.MVC.Application.pdb
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/ref/CleanArch.MVC.Application.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/bin/Debug/net8.0/CleanArch.MVC.Domain.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/bin/Debug/net8.0/CleanArch.MVC.Domain.pdb
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/CleanArch.MVC.Application.csproj.AssemblyReference.cache
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/Debug/net8.0/CleanArch.MVC.Application.csproj.CopyComplete

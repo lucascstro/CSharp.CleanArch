@@ -1,0 +1,15 @@
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/bin/Debug/net8.0/CleanArch.MVC.Infra.Data.deps.json
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/bin/Debug/net8.0/CleanArch.MVC.Infra.Data.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/bin/Debug/net8.0/CleanArch.MVC.Infra.Data.pdb
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.AssemblyInfoInputs.cache
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.AssemblyInfo.cs
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/refint/CleanArch.MVC.Infra.Data.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.pdb
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/obj/Debug/net8.0/ref/CleanArch.MVC.Infra.Data.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/bin/Debug/net8.0/CleanArch.MVC.Domain.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/bin/Debug/net8.0/CleanArch.MVC.Domain.pdb
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.csproj.AssemblyReference.cache
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.csproj.CopyComplete

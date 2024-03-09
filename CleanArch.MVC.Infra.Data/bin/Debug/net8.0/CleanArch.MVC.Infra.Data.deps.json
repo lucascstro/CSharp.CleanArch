@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CleanArch.MVC.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CleanArch.MVC.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArch.MVC.Infra.Data.dll": {}
+        }
+      },
+      "CleanArch.MVC.Domain/1.0.0": {
+        "runtime": {
+          "CleanArch.MVC.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArch.MVC.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.MVC.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
