@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArch.MVC.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c37204714cb0f82295c8a01caee6073ed45bbc52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85e5fbb75493cfbacdfa523434f78147db07d768")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.MVC.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.MVC.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
