@@ -9,3 +9,4 @@
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/obj/Debug/net8.0/refint/CleanArch.MVC.Domain.dll
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/obj/Debug/net8.0/CleanArch.MVC.Domain.pdb
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/obj/Debug/net8.0/ref/CleanArch.MVC.Domain.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/obj/Debug/net8.0/CleanArch.MVC.Domain.sourcelink.json

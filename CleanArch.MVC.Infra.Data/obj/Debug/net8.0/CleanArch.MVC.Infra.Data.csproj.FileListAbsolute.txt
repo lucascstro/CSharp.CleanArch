@@ -13,3 +13,4 @@
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/bin/Debug/net8.0/CleanArch.MVC.Domain.pdb
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.csproj.AssemblyReference.cache
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.csproj.CopyComplete
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/Debug/net8.0/CleanArch.MVC.Infra.Data.sourcelink.json

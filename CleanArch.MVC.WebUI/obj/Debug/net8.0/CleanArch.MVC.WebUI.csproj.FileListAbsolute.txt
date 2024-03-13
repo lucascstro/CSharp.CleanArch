@@ -38,3 +38,4 @@
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/CleanArch.MVC.Infra.Data.pdb
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/obj/Debug/net8.0/CleanArch.MVC.WebUI.csproj.AssemblyReference.cache
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/obj/Debug/net8.0/CleanArch.MVC.WebUI.csproj.CopyComplete
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/obj/Debug/net8.0/CleanArch.MVC.WebUI.sourcelink.json
