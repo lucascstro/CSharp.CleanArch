@@ -1,18 +1,24 @@
 ﻿<Properties StartupConfiguration="{455B6A38-C245-416C-869E-D851CD08D6DB}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CleanArch.MVC.Infra.Data/Migrations/20240316034008_Inicial.cs">
+    <Files>
+      <File FileName="CleanArch.MVC.Infra.data/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="CleanArch.MVC.Infra.data/Migrations/20240316034008_Inicial.cs" Line="2" Column="32" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CleanArch.MVC" expanded="True" selected="True" />
+          <Node name="CleanArch.MVC">
+            <Node name="CleanArch.MVC.Infra.Data" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.CleanArch.MVC.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

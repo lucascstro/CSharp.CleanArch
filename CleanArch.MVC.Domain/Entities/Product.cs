@@ -1,4 +1,3 @@
-using System.Reflection;
 using CleanArch.MVC.Domain.Validation;
 
 namespace CleanArch.MVC.Domain.Entities;
@@ -23,10 +22,10 @@ public sealed class Product : Entity
         Id = id;
         ValidateDomain(name, description, price, stock, image);
     }
-    public void Update(string name, string description, decimal price, int stock, string image, int CategoryId)
+    public void Update(string name, string description, decimal price, int stock, string image, int categoryId)
     {
         ValidateDomain(name, description, price, stock, image);
-        CategoryId = CategoryId;
+        CategoryId = categoryId;
     }
     public void ValidateDomain(string name, string description, decimal price, int stock, string image)
     {
