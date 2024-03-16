@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "GDdFUDTNRCL6i7aWm1XgscLBuea1D5OH7N5pWlORsCfIn7Jj74npW9TtsIqbhgj4hH3IM1ACagcav1nttbcPyw==",
+  "dgSpecHash": "dBEDS5EtpxrmMUqeeUaHcJqpqc4Idk1qIp+REx8KX7lambJ4M5igEdd7ABm5EGf/BMTJi4g3SyeQit+8vm0gyA==",
   "success": true,
   "projectFilePath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/CleanArch.MVC.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/lucascastro/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/lucascastro/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/lucascastro/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/lucascastro/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/lucascastro/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

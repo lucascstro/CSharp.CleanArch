@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AE/bHStrGWgYxuyk5PXbg5p4cYGvrjJ/Zuckfk0Pp9vkf/FAJbUycxkumugx7ne05LZvjn5dGDuwEJjdxo/xRg==",
+  "dgSpecHash": "1TTh72djA9BHqRU9BcbfhMN3en3mCLHZP0cbD55vbpApkpwdjIxCrUZC+BDbdz1dhbsGq2YnoUmGhdtGGHoJyw==",
   "success": true,
   "projectFilePath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/CleanArch.MVC.WebUI.csproj",
   "expectedPackageFiles": [
+    "/Users/lucascastro/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/google.protobuf/3.25.1/google.protobuf.3.25.1.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
