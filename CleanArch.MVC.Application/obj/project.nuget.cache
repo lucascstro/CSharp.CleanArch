@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dBEDS5EtpxrmMUqeeUaHcJqpqc4Idk1qIp+REx8KX7lambJ4M5igEdd7ABm5EGf/BMTJi4g3SyeQit+8vm0gyA==",
+  "dgSpecHash": "/jC8CNJ7g2KMo6U1xc0J9PjSdQhq26icSyIGmladJGi9YDEHC06rZLzmyiZNrYBwsAYK3d+9yJiZkTCjpD03bA==",
   "success": true,
   "projectFilePath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/CleanArch.MVC.Application.csproj",
   "expectedPackageFiles": [
     "/Users/lucascastro/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
-    "/Users/lucascastro/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/lucascastro/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/lucascastro/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/lucascastro/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"

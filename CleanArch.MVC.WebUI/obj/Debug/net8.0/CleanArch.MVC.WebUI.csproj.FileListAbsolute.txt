@@ -136,3 +136,5 @@
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/obj/Debug/net8.0/CleanArch.MVC.WebUI.genruntimeconfig.cache
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/obj/Debug/net8.0/ref/CleanArch.MVC.WebUI.dll
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/AutoMapper.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/MediatR.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/MediatR.Contracts.dll

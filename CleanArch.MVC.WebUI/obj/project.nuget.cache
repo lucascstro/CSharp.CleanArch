@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1TTh72djA9BHqRU9BcbfhMN3en3mCLHZP0cbD55vbpApkpwdjIxCrUZC+BDbdz1dhbsGq2YnoUmGhdtGGHoJyw==",
+  "dgSpecHash": "Etmr6Ts0qgvICE1jsxQqLf1RMCdmQ9N7cJa3ZDYUKfzJDrIfMUcFJ29m+U5RCMt/xJsul7apjeZ8xStBqYyr1A==",
   "success": true,
   "projectFilePath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/CleanArch.MVC.WebUI.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,8 @@
     "/Users/lucascastro/.nuget/packages/k4os.compression.lz4/1.3.5/k4os.compression.lz4.1.3.5.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/k4os.compression.lz4.streams/1.3.5/k4os.compression.lz4.streams.1.3.5.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/k4os.hash.xxhash/1.0.8/k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "/Users/lucascastro/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/lucascastro/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "/Users/lucascastro/.nuget/packages/microsoft.codeanalysis.common/4.5.0/microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using CleanArch.MVC.Application.Interfaces;
 using CleanArch.MVC.Application.Mappings;
 using CleanArch.MVC.Application.Services;
@@ -28,7 +24,9 @@ namespace CleanArch.MVC.Infra.Ioc
             services.AddScoped<ICategoryServices, CategoryServices>();
             services.AddScoped<IProductServices, ProductServices>();
 
-            services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
+            services.AddAutoMapper(typeof(DomainToDTOMappingProfile));  
+
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(AppDomain.CurrentDomain.Load("CleanArch.MVC.Application")));
 
             return services;
         }
