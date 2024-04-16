@@ -138,3 +138,9 @@
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/AutoMapper.dll
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/MediatR.dll
 /Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.WebUI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll

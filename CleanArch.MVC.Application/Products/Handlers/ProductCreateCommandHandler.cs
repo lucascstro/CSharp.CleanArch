@@ -17,7 +17,7 @@ namespace CleanArch.MVC.Application.Products.Handlers
             var product = new Product(request.Name, request.Description, request.Price, request.Stock, request.Image) ?? throw new Exception ($"Error creating entity");
 
             product.CategoryId = request.CategoryID;
-            return await _productRepository.CreateAsync (product);
+            return await _productRepository.CreateAsync(product);
         }
     }
 }

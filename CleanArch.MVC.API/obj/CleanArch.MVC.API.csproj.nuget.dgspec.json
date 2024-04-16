@@ -1,0 +1,379 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.API/CleanArch.MVC.API.csproj": {}
+  },
+  "projects": {
+    "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.API/CleanArch.MVC.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.API/CleanArch.MVC.API.csproj",
+        "projectName": "CleanArch.MVC.API",
+        "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.API/CleanArch.MVC.API.csproj",
+        "packagesPath": "/Users/lucascastro/.nuget/packages/",
+        "outputPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucascastro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Ioc/CleanArch.MVC.Infra.Ioc.csproj": {
+                "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Ioc/CleanArch.MVC.Infra.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/CleanArch.MVC.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/CleanArch.MVC.Application.csproj",
+        "projectName": "CleanArch.MVC.Application",
+        "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/CleanArch.MVC.Application.csproj",
+        "packagesPath": "/Users/lucascastro/.nuget/packages/",
+        "outputPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucascastro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj": {
+                "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj",
+        "projectName": "CleanArch.MVC.Domain",
+        "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj",
+        "packagesPath": "/Users/lucascastro/.nuget/packages/",
+        "outputPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucascastro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj",
+        "projectName": "CleanArch.MVC.Infra.Data",
+        "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj",
+        "packagesPath": "/Users/lucascastro/.nuget/packages/",
+        "outputPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucascastro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj": {
+                "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Ioc/CleanArch.MVC.Infra.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Ioc/CleanArch.MVC.Infra.Ioc.csproj",
+        "projectName": "CleanArch.MVC.Infra.Ioc",
+        "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Ioc/CleanArch.MVC.Infra.Ioc.csproj",
+        "packagesPath": "/Users/lucascastro/.nuget/packages/",
+        "outputPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Ioc/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucascastro/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/CleanArch.MVC.Application.csproj": {
+                "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Application/CleanArch.MVC.Application.csproj"
+              },
+              "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj": {
+                "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj"
+              },
+              "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj": {
+                "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

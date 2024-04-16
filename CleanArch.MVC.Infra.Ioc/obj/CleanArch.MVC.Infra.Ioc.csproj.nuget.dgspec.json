@@ -126,14 +126,14 @@
         }
       }
     },
-    "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/CleanArch.MVC.Infra.Data.csproj": {
+    "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/CleanArch.MVC.Infra.Data.csproj",
+        "projectUniqueName": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj",
         "projectName": "CleanArch.MVC.Infra.Data",
-        "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/CleanArch.MVC.Infra.Data.csproj",
+        "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj",
         "packagesPath": "/Users/lucascastro/.nuget/packages/",
-        "outputPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/obj/",
+        "outputPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucascastro/.nuget/NuGet/NuGet.Config"
@@ -165,6 +165,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -239,8 +247,8 @@
               "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj": {
                 "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Domain/CleanArch.MVC.Domain.csproj"
               },
-              "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/CleanArch.MVC.Infra.Data.csproj": {
-                "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.data/CleanArch.MVC.Infra.Data.csproj"
+              "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj": {
+                "projectPath": "/Users/lucascastro/Projetos/desenv/CSharp/CleanArch.MVC/CleanArch.MVC.Infra.Data/CleanArch.MVC.Infra.Data.csproj"
               }
             }
           }

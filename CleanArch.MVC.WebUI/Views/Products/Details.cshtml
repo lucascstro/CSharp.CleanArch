@@ -1,0 +1,56 @@
+@model CleanArch.MVC.Application.DTOs.ProductDTO
+@{
+    ViewData["Title"] = "Details Product";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="form-horizontal">
+    <hr />
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <dl class="row">
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Stock)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Stock)
+        </dd>
+    </dl>
+    <dl class="row">
+        <dt class="col-md-2">
+            @Html.DisplayNameFor(model => model.Category)
+        </dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(model => model.Category.Name)
+        </dd>
+    </dl>
+</div>
+<br />
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" title="Edit" class="btn btn-primary">Edit</a>
+    <a asp-action="Index"> Back to list</a>
+</div>
